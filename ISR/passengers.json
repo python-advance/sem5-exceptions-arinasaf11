@@ -1,0 +1,28 @@
+{
+	  "passengers": [
+	      {
+	        "Name": "Lois",
+	        "Surname":"Frey",
+            "Departure point":"Los-Angeles",
+            "Landing point":"New York"
+	      },
+	      {
+	        "Name": "Christina",
+	        "Surname":"Milton",
+            "Departure point":"Berkeley",
+            "Landing point":"Baltimor"
+	      },
+	     {
+	        "Name": "Evan",
+	        "Surname":"Pitters",
+            "Departure point":"Vegas",
+            "Landing point":"Buffalo"
+	      },
+        {
+	        "Name": "Kevin",
+	        "Surname":"Hin",
+            "Departure point":"Boston",
+            "Landing point":"Cary"
+	      }
+	   ]
+	}
