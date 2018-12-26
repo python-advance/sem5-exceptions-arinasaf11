@@ -36,7 +36,7 @@ file_name = 'passengers.json'
 
 with open(file_name, 'r') as f:
     try:
-        data = json.loads(file)
+        data = json.load(f)
     except JSONDecodeError:
         print("Not a JSON file")
     else:
